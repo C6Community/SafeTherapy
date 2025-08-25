@@ -1,9 +1,116 @@
 {
   "GB": [
     { "label": "HCPC — Raise a concern", "url": "https://www.hcpc-uk.org/concerns/raising-concerns/" },
-    { "label": "GMC — Concerns about doctors", "url": "https://www.gmc-uk.org/concerns" }
+    { "label": "GMC — Concerns about doctors", "url": "https://www.gmc-uk.org/concerns" },
+    { "label": "NMC — Nursing & Midwifery", "url": "https://www.nmc.org.uk/concerns-nurses-midwives" },
+    { "label": "BACP — Complaints", "url": "https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/complaints-about-therapists/" }
   ],
   "US": [
-    { "label": "APA — Find your state board", "url": "https://www.apa.org/about/apa/organizations/boards/state" }
+    { "label": "APA — Find your state board", "url": "https://www.apa.org/about/apa/organizations/boards/state" },
+    { "label": "ASWB — Social Work Boards", "url": "https://www.aswb.org/licensees/about-licensing-and-regulation/regulatory-boards-and-colleges/" },
+    { "label": "FSMB — State Medical Boards", "url": "https://www.fsmb.org/contact-a-state-medical-board/" }
+  ],
+  "CA": [
+    { "label": "Psychology regulators (overview)", "url": "https://ccppp.ca/resources/regulatory-colleges/" },
+    { "label": "Social work regulators (CASW)", "url": "https://www.casw-acts.ca/en/about-regulation" }
+  ],
+  "AU": [
+    { "label": "AHPRA — Raise a concern", "url": "https://www.ahpra.gov.au/Notifications/Raise-a-concern.aspx" },
+    { "label": "Psychology Board of Australia", "url": "https://www.psychologyboard.gov.au/" }
+  ],
+  "NZ": [
+    { "label": "HPDT/Responsible Authorities", "url": "https://www.hpdt.org.nz/RegulatoryAuthorities.html" }
+  ],
+  "FR": [
+    { "label": "Ordre des Médecins — Signalement", "url": "https://www.conseil-national.medecin.fr/" }
+  ],
+  "DE": [
+    { "label": "Bundesärztekammer", "url": "https://www.bundesaerztekammer.de/" },
+    { "label": "Bundespsychotherapeutenkammer", "url": "https://www.bptk.de/" }
+  ],
+  "ES": [
+    { "label": "Consejo General de la Psicología", "url": "https://www.consejogeneralpsicologia.org/" }
+  ],
+  "IT": [
+    { "label": "FNOMCeO (Ordine Medici)", "url": "https://portale.fnomceo.it/" },
+    { "label": "Ordine degli Psicologi", "url": "https://www.psy.it/" }
+  ],
+  "IE": [
+    { "label": "CORU — Complaints", "url": "https://www.coru.ie/complaints/" }
+  ],
+  "NL": [
+    { "label": "IGJ — Complaints", "url": "https://www.igj.nl/onderwerpen/klacht-over-de-zorg" }
+  ],
+  "SE": [
+    { "label": "IVO — Complaints", "url": "https://www.ivo.se/privatperson/klagomal" }
+  ],
+  "NO": [
+    { "label": "Helsetilsynet — Complaints", "url": "https://www.helsetilsynet.no/klager/klage-pa-helsetjenester/" }
+  ],
+  "DK": [
+    { "label": "Styrelsen for Patientsikkerhed", "url": "https://stps.dk/borger/klage-over-sundhedsvaesenet" }
+  ],
+  "FI": [
+    { "label": "Valvira — Complaints", "url": "https://www.valvira.fi/web/en/healthcare/complaints" }
+  ],
+  "PT": [
+    { "label": "Ordem dos Psicólogos — Queixas", "url": "https://www.ordemdospsicologos.pt/pt/queixas" }
+  ],
+  "PL": [
+    { "label": "Naczelna Izba Lekarska", "url": "https://www.nil.org.pl/" }
+  ],
+  "CZ": [
+    { "label": "Česká lékařská komora", "url": "https://www.lkcr.cz/" }
+  ],
+  "JP": [
+    { "label": "MHLW — Oversight", "url": "https://www.mhlw.go.jp/english/" }
+  ],
+  "KR": [
+    { "label": "Korean Medical Association", "url": "https://www.kma.org/" }
+  ],
+  "SG": [
+    { "label": "SMC — Complaints", "url": "https://www.healthprofessionals.gov.sg/smc/complaints" },
+    { "label": "AHPC — Complaints", "url": "https://www.healthprofessionals.gov.sg/ahpc/complaints" }
+  ],
+  "HK": [
+    { "label": "Medical Council of Hong Kong", "url": "https://www.mchk.org.hk/" }
+  ],
+  "IN": [
+    { "label": "NMC — Grievance", "url": "https://www.nmc.org.in/Grievance/Index" },
+    { "label": "RCI — Complaints", "url": "https://rehabcouncil.nic.in/" }
+  ],
+  "ZA": [
+    { "label": "HPCSA — Complaints", "url": "https://www.hpcsa.co.za/Complaints" }
+  ],
+  "KE": [
+    { "label": "KMPDC", "url": "https://kmpdc.go.ke/" }
+  ],
+  "NG": [
+    { "label": "MDCN", "url": "https://www.mdcn.gov.ng/" }
+  ],
+  "GH": [
+    { "label": "Medical & Dental Council Ghana", "url": "https://mdcghana.org.gh/" }
+  ],
+  "BR": [
+    { "label": "CFM — Federal Council of Medicine", "url": "https://portal.cfm.org.br/" },
+    { "label": "CFP — Federal Council of Psychology", "url": "https://site.cfp.org.br/" }
+  ],
+  "MX": [
+    { "label": "Dirección General de Profesiones", "url": "https://www.gob.mx/sep/acciones-y-programas/direccion-general-de-profesiones" }
+  ],
+  "AR": [
+    { "label": "Ministerio de Salud", "url": "https://www.argentina.gob.ar/salud" }
+  ],
+  "CL": [
+    { "label": "Superintendencia de Salud", "url": "https://www.supersalud.gob.cl/" }
+  ],
+  "CO": [
+    { "label": "Ministerio de Salud", "url": "https://www.minsalud.gov.co/" }
+  ],
+  "AE": [
+    { "label": "MOHAP Complaints", "url": "https://www.mohap.gov.ae/en" }
+  ],
+  "SA": [
+    { "label": "SCFHS / MoH", "url": "https://www.scfhs.org.sa/" }
   ]
 }
