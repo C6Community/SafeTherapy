@@ -113,4 +113,18 @@
   "SA": [
     { "label": "SCFHS / MoH", "url": "https://www.scfhs.org.sa/" }
   ]
+{
+  "CH": [
+    { "label": "FMH — Swiss Medical Association", "url": "https://www.fmh.ch/" },
+    { "label": "FSP — Swiss Federation of Psychologists", "url": "https://www.psychologie.ch/" },
+    { "label": "Swiss Society of Psychiatry and Psychotherapy (SSPP)", "url": "https://www.psychiatrie.ch/" },
+    { "label": "Swiss Patient Protection Foundation (SPO)", "url": "https://www.spo.ch/" }
+  ],
+  "BE": [
+    { "label": "Ordre des Médecins de Belgique", "url": "https://www.ordomedic.be/" },
+    { "label": "Commission des Psychologues", "url": "https://www.compsy.be/" },
+    { "label": "INAMI — National Institute for Health and Disability Insurance", "url": "https://www.inami.fgov.be/" },
+    { "label": "Patient Rights Federal Ombudsman", "url": "https://www.patientrights.be/" }
+  ]
 }
+
