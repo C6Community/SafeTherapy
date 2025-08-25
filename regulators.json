@@ -127,4 +127,24 @@
     { "label": "Patient Rights Federal Ombudsman", "url": "https://www.patientrights.be/" }
   ]
 }
+{
+  "BR": [
+    { "label": "CFM — Federal Council of Medicine", "url": "https://portal.cfm.org.br/" },
+    { "label": "CFP — Federal Council of Psychology", "url": "https://site.cfp.org.br/" },
+    { "label": "Cofen — Federal Council of Nursing", "url": "http://www.cofen.gov.br/" },
+    { "label": "ANS — National Regulatory Agency for Private Health Insurance", "url": "https://www.gov.br/ans/pt-br" }
+  ],
+  "ZA": [
+    { "label": "HPCSA — Health Professions Council of South Africa", "url": "https://www.hpcsa.co.za/" },
+    { "label": "SAPA — South African Psychological Association", "url": "https://www.psyssa.com/" },
+    { "label": "Office of Health Standards Compliance (OHSC)", "url": "https://ohsc.org.za/" },
+    { "label": "South African Nursing Council", "url": "https://www.sanc.co.za/" }
+  ],
+  "IN": [
+    { "label": "NMC — National Medical Commission", "url": "https://www.nmc.org.in/" },
+    { "label": "RCI — Rehabilitation Council of India", "url": "https://rehabcouncil.nic.in/" },
+    { "label": "Indian Association of Clinical Psychologists", "url": "https://iacp.in/" },
+    { "label": "National Human Rights Commission (mental health complaints)", "url": "https://nhrc.nic.in/" }
+  ]
+}
 
