@@ -1,0 +1,9 @@
+{
+  "GB": [
+    { "label": "HCPC — Raise a concern", "url": "https://www.hcpc-uk.org/concerns/raising-concerns/" },
+    { "label": "GMC — Concerns about doctors", "url": "https://www.gmc-uk.org/concerns" }
+  ],
+  "US": [
+    { "label": "APA — Find your state board", "url": "https://www.apa.org/about/apa/organizations/boards/state" }
+  ]
+}
